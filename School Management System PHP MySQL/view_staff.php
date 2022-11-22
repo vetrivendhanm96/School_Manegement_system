@@ -11,7 +11,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Tutor Joe's</title>
+		<title>School_mgmt_sys</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 	</head>
 	

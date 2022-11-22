@@ -1,5 +1,5 @@
 <div class="footer" style="margin-top:20px;">
-			<footer><p>Copyright &copy; Tutor Joe's </p></footer>
+			<footer><p>Copyright &copy; 2022 VV </p></footer>
 </div>
 		<script src="js/jquery.js"></script>
 		 <script>

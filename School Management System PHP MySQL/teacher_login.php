@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>School Management System - Tutor Joe's</title>
+		<title>School Management System</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 	</head>
 	<body class="back">
@@ -53,7 +53,7 @@
 		
 		
 		<div class="footer">
-			<footer><p>Copyright &copy; Tutor Joe's </p></footer>
+			<footer><p>Copyright &copy;2022 VV </p></footer>
 		</div>
 		
 			<script src="js/jquery.js"></script>

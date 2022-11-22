@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>School Management System - Tutor Joe's</title>
+		<title>School Management System </title>
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 	</head>
 	<body class="back">
@@ -18,17 +18,15 @@
 			<div class="cont">
 			
 				<form method="post" action="<?php echo $_SERVER["PHP_SELF"];?>">
-					
-					TUTOR JOE'S COMPUTER EDUCATION<BR>
-					Vijaya Sree Towers, 1st Floor,<BR>
-					Cherry Road, Opp Vincent Bus Stop,<BR>
-					Kumarasamypatti, Salem-636 007<BR>
-					Mail - tutorjoes@gmail.com<br>Phone - 90430-17689
+				No.387, Japanese Village, <BR>
+				Ganapathipuram PO, Pudukkottai, <BR>
+				Tamilnadu 622203 <BR>
+				India
 				</form>
 			</div>
 		</div>
 		<div class="footer">
-			<footer><p>Copyright &copy; Tutor Joe's </p></footer>
+			<footer><p>Copyright &copy; 2022 VV </p></footer>
 		</div>
 		<script src="js/jquery.js"></script>
 		 <script>
